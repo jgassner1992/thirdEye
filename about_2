@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>	
+<meta charset="UTF-8">
+    <link href="css/app.css" rel="stylesheet" type="text/css">
+    <!-- <link href="css/bootstrap/dist/css/bootstrap.css" rel="stylesheet" type="text/css"> -->
+
+</head>
+<body>
+        <nav>
+                <ul>
+                    <li><a class="active" href="#home">MEN</a></li>
+                    <li><a href="#news">WOMEN</a></li> 
+                  <li><a href="#home">HOME</a></li>
+                    <li><a href="#contact">CONTACT</a></li>
+                    <li><a href="#about">ABOUT</a></li>
+                  </ul>
+            
+        </nav>
+   
+       <div class="greySquare">
+            <div class="paratext"> 
+                <h3 >Find your inner focus with Third Eye</h3>
+                <p class="dash">-</p>
+                <p >Welcome to Third Eye Athletics where we believe in offering unmatched excellence 
+                    in athletic wear. Our ultimate goal is to make athletic wear that is 
+                    so comfortable and performance based, that our wearers find 
+                    their inner focus, their “third eye.” T.E.A. wear is made 
+                    ethically, safely, and affordable out of our main HQ in Kalamazoo, MI. </p>
+            </div>
+
+        </div>
+    </div>
+       
+        <footer>
+                <div class="col">
+                    <h4>Customer Support</h4>
+                    <ul>
+                        <li><a href="#">help</a></li>
+                        <li><a href="#"> order tracker</a></li>
+                        <li><a href="#">sizing</a></li>
+                        <li><a href="#">returns & refunds</a></li>
+                    </ul>
+                </div> 
+                <div class="col"> <h4>Company Info</h4>
+                 <ul>
+                     <li ><a href="#">contact</a></li>
+                     <li><a href="#"> careers</a></li>
+                     <li><a href="#">about</a></li>
+                     <li><a href="#">press</a></li>
+                 </ul></div>  
+                <div class="col"><h4>Privacy & Terms</h4>
+                 <ul>
+                     <li ><a href="#">privacy & terms</a></li>
+                     <li><a href="#"> statement</a></li>
+                     <li><a href="#">terms & conditions</a></li>
+                    </ul>
+                 </div> 
+                <div class="col"><h4>Gift Services</h4>
+                 <ul>
+                     <li ><a href="#">email a gift card</a></li>
+                     <li><a href="#"> ship a gift card</a></li>
+                     <li><a href="#">check balance</a></li>
+                    </ul></div> 
+                <div class="col">
+                    <ul>
+                        <li><a href="#"><img src="images/pinteriest.png"></a></li>
+                        <li><a href="#"><img src="images/instagram.png"></a></li>
+                        <li><a href="#"><img src="images/facebook-logo-png-white-facebook-logo-png-white-facebook-icon-png-32.png
+                         "></a></li>
+                         <li><a href="#"><img src="images/2000px-YouTube_social_dark_square_(2017).svg.png"></a></li>
+             
+                      
+                    </ul>
+                </div> 
+             </footer>
+    </body>
+    </html>
